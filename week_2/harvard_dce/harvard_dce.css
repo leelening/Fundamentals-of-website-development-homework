@@ -1,0 +1,32 @@
+/* CSS Rules for harvard_dce.html */
+h1 {
+    color:red;
+    font:Times;
+    font-weight:700;
+    font-style:italic
+}
+
+li {
+    line-height:125%;
+    list-style:square
+}
+
+p {
+    font:Calibri;
+    background-color:green;
+    color:#ff0
+}
+
+h2 {
+    color:red;
+    font-weight:700
+}
+
+a {
+    color:purple
+}
+
+footer {
+    font-style:italic;
+    font-size:80%
+}

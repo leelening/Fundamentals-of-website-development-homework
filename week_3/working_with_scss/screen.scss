@@ -1,0 +1,55 @@
+// This is here to get you started
+// color #135b00
+// background #6FC559
+// hover background #50C531
+// hover color #135b00
+// current background
+// current color #6FC559
+nav {
+    width: 100%;
+}
+#sitenav {
+    color: #135b00;
+    font-weight: bold;
+    font-size: 135%;
+    background-color: #135b00;
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        li {
+            float: left;
+            margin: 0;
+            padding: 0;
+            width: 12%;
+            background-color: #6fc559;
+            a {
+                color: #135b00;
+                background-color: #6fc559;
+                display: block;
+                text-align: center;
+                text-decoration: none;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                &:hover {
+                    background-color: #50dd31;
+                    color: #135b00;
+                    text-decoration: underline;
+                }
+                &:active {
+                    color: #135b00;
+                    background-color: #6fc559;
+                }
+            }
+        }
+        // nest select for #current here
+    }
+    #current a:link,
+    #current a:visited,
+    #current a:hover,
+    #current a:active {
+        background-color: #135b00;
+        color: #6fc559;
+        text-decoration: none;
+    }
+}

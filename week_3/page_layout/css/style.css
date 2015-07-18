@@ -1,0 +1,104 @@
+h1#hes_logo {
+    height: 50px;
+    padding-top: 50px;
+    background-image: url(../images/masthead.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-color: black;
+}
+nav a:link,
+nav a:visited,
+nav a:hover,
+nav a:active {
+    color: black;
+    text-decoration: none;
+}
+
+/* ===Main horizontal site nav=== */
+
+nav#site-nav {
+    border-bottom: 10px solid #74a7ce;
+    margin-bottom: 1.5em;
+}
+nav#site-nav ul {
+    list-style-type: none;
+}
+nav#site-nav ul li {
+    display: inline;
+    padding: 1em;
+}
+nav#site-nav ul li a:hover {
+    color: crimson;
+    border-bottom: 1px solid crimson;
+}
+nav#site-nav ul li.youarehere a {
+    color: crimson;
+    border-bottom: 1px solid crimson;
+}
+
+/* ===Category clamshell nav on the left side=== */
+
+nav#cat-nav ul {
+    list-style-type: none;
+    padding-left: 0.5em;
+}
+nav#cat-nav ul li {
+    color: crimson;
+}
+nav#cat-nav ul li a.youarehere {
+    color: crimson;
+}
+nav#cat-nav ul ul ul li a:hover {
+    background-color: grey;
+}
+
+/* ===breadcrumb nav === */
+
+nav#bread-nav a:link,
+nav#bread-nav a:visited,
+nav#bread-nav a:hover,
+nav#bread-nav a:active {
+    color: grey;
+}
+nav#bread-nav ul {
+    display: inline;
+    text-decoration: none;
+    padding: 0;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+}
+nav#bread-nav ul li {
+    display: inline;
+}
+nav#bread-nav ul ul li {
+    background-image: url(../images/arrow.gif);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 2em;
+}
+nav#bread-nav ul ul ul li {
+    color: grey;
+}
+
+/* === main content === */
+
+main#maincontent a:link,
+main#maincontent a:visited,
+main#maincontent a:hover,
+main#maincontent a:active {
+    text-decoration: underline;
+}
+
+/* ===hr the line between main content and the footer === */
+
+hr {
+    border: 0;
+}
+
+/* === footer === */
+
+#footer {
+    clear: both;
+    color: grey;
+    font-size: x-small;
+}

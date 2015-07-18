@@ -1,0 +1,42 @@
+/* CSS Rules for the Dado Tea Lunch Special Form */
+h1 {
+    margin-top:20px;
+    margin-left:50px;
+    font-style:italic;
+    font-family:"Times New Roman",Times,serif;
+    color:green
+}
+
+p {
+    margin-top:20px;
+    font-size:14px;
+    color:silver;
+    margin-left:50px
+}
+
+form {
+    color:orange;
+    margin-left:50px;
+    margin-top:30px
+}
+
+legend {
+    color:red;
+    font-weight:bolder;
+    font-style:italic;
+    margin-top:30px
+}
+
+select {
+    font-size:14px;
+    font:Times;
+    background-color:green;
+    color:red
+}
+
+optgroup {
+    font-style:italic;
+    font-weight:bolder;
+    font-size:18px;
+    font:Arial
+}

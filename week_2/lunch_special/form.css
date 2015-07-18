@@ -1,0 +1,43 @@
+/* CSS Rules for the Dado Tea Lunch Special Form */
+h1
+{
+	font-family:Verdana;
+	color: green;
+	font-style: italic;
+	font-weight: bolder;
+	text-align: center;
+}
+legend
+{
+	color: orange;
+	font-family: Times;
+	font-size: 125%;
+}
+p
+{
+	font-family: Arial;
+	margin-left: 5cm;
+	font-size: 80%;
+}
+optgroup
+{
+	font-style: italic;
+	color: silver;
+	background-color: green;
+}
+option
+{
+	font-style: normal;
+	color: blue;
+	background-color: white;
+}
+fieldset
+{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#submitform
+{
+	margin-left: 5cm;
+}
