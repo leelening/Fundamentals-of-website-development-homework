@@ -1,25 +1,25 @@
 {
-    "people": [
-        {
-            "firstName": "Drew",
-            "lastName": "Faust",
-            "email": "president@harvard.edu",
-            "roles": [
-                "President",
-                "Lincoln Professor of History"
-            ]
-        },
-        {
-            "firstName": "Alan",
-            "lastName": "Garber",
-            "email": "alan_garber@harvard.edu",
-            "roles": [
-                "Provost",
-                "Professor, in the Dept. of Health Policy and Management",
-                "Professor of Economics",
-                "Professor of Public Policy",
-                "Mallinckrodt Professor of Health Care Policy"
-            ]
-        }
-    ]
+"people": [
+{
+"firstName": "Drew",
+"lastName": "Faust",
+"email": "president@harvard.edu",
+"roles": [
+"President",
+"Lincoln Professor of History"
+]
+},
+{
+"firstName": "Alan",
+"lastName": "Garber",
+"email": "alan_garber@harvard.edu",
+"roles": [
+"Provost",
+"Professor, in the Dept. of Health Policy and Management",
+"Professor of Economics",
+"Professor of Public Policy",
+"Mallinckrodt Professor of Health Care Policy"
+]
+}
+]
 }

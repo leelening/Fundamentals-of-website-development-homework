@@ -1,0 +1,7 @@
+input.error,  { border: thin solid green; }
+label.error {
+  background: url('images/red_x.gif') no-repeat;
+  padding-left: 16px;
+  margin-left: .3em;
+  color: green;
+}
