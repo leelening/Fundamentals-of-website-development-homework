@@ -5,4 +5,4 @@
 
 * Instructions
 
-Some of the code probably needs the PHP envrionment. You can easily install PHP on you computer. Ohter code could be directly opened. For running, you just open the browser.
+ Some of the code probably needs the PHP envrionment. You can easily install PHP on you computer. Ohter code could be directly opened. For running, you just open the browser.
