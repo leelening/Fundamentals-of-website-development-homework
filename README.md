@@ -1,4 +1,4 @@
-# harvard_website_homework
+# Harvard_Website_Homework
 * Introduction
 
  This code was written when I was at the Harvard University as a student in 2015 Summer. I took a class called fundemental development of the website.This is the homework code. This code is just for your review, studay and research purpose. Do not use for ohter purpose.
