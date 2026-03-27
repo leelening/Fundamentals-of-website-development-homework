@@ -74,5 +74,4 @@ For review and educational purposes only.
 ## Author
 
 **Lening Li**
-- Harvard Summer School 2015
-- Computer Science student
+- GitHub: [@leelening](https://github.com/leelening)
